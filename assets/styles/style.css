@@ -1,6 +1,3 @@
-
-
-
 .btn-OPC{
   background: #ebad1c;
   color: white;
@@ -36,12 +33,46 @@
 }
 
 /* Nosotros */
-.nosotros{
-
-}
 .nosotros-tittle{
   border-bottom: 2px solid #ebad1c;
   width: fit-content;
   margin: auto;
 }
+
 /* /Nosotros */
+
+/* Servicios */
+.servicios-tittle{
+  border-bottom: 2px solid #ebad1c;
+  width: fit-content;
+  margin: auto;
+}
+
+/* /Servicios */
+
+/* Beneficio */
+.beneficios{
+  background: #4d4d4d;
+  color: white;
+}
+.beneficios img{
+  height: 50px;
+  width: 50px;
+}
+/* /Benefio */
+
+/* Trabajos */
+.trabajos-tittle{
+  border-bottom: 2px solid #ebad1c;
+  width: fit-content;
+  margin: auto;
+}
+/* /Trabajos */
+
+/* Contacto */
+.contacto-tittle{
+  border-bottom: 2px solid #ebad1c;
+  width: fit-content;
+  margin: auto;
+}
+/* /Contacto */
